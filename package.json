@@ -1,6 +1,6 @@
 {
-  "name": "react-photo-grid",
-  "version": "1.0.3",
+  "name": "react-photo-grid-updated",
+  "version": "2.0.0",
   "description": "Show images in a grid like facebook does. Useful to show a preview of main images when many are uploaded.",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
       "node-lessify"
     ]
   },
-  "author": "Mukesh Soni <mukeshsoni@gmail.com>",
-  "repository": "https://github.com/mukeshsoni/react-photo-grid",
+  "author": "Mukesh Soni <mukeshsoni@gmail.com> and renewed by Andrew <beyondbirthday90@gmail.com> pavlov",
+  "repository": "https://github.com/FlyOrDie/react-photo-grid",
   "license": "MIT",
   "devDependencies": {
     "browserify": "^6.1.0",
@@ -31,7 +31,7 @@
     "watchify": "^2.0.0"
   },
   "dependencies": {
-    "lodash": "^2.4.1",
-    "react": "^0.12.1"
+    "lodash": "^4.16.1",
+    "react": "^15.3.2"
   }
 }
