@@ -24,11 +24,20 @@
   "repository": "https://github.com/FlyOrDie/react-photo-grid",
   "license": "MIT",
   "devDependencies": {
-    "browserify": "^6.1.0",
-    "node-lessify": "0.0.6",
-    "reactify": "^0.16.0",
-    "st": "^0.5.2",
-    "watchify": "^2.0.0"
+    "babel": "^6.5.2",
+    "babel-cli": "^6.14.0",
+    "babel-plugin-transform-class-properties": "^6.11.5",
+    "babel-plugin-transform-es2015-destructuring": "^6.9.0",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "gulplog": "^1.0.0"
   },
   "dependencies": {
     "lodash": "^4.16.1",
